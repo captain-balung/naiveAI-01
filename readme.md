@@ -16,7 +16,7 @@
 
 如果您是老師，不需要下載這裡的程式碼！請直接跟著以下步驟操作：
 
-1. **取得母艦副本：** 點擊 👉 [這裡取得試算表一鍵複製連結]([這裡請貼上您剛剛做好的 /copy 網址](https://docs.google.com/spreadsheets/d/1VS-lo-5wzV6TgL9hq6PS1Q7cR_Xhwnu-VEB36akiIkY/copy?usp=sharing)) 👈，建立一份您的專屬副本。
+1. **取得母艦副本：** 點擊 👉 [這裡取得試算表一鍵複製連結](https://docs.google.com/spreadsheets/d/1VS-lo-5wzV6TgL9hq6PS1Q7cR_Xhwnu-VEB36akiIkY/copy?usp=sharing)) 👈，建立一份您的專屬副本。
 2. **領取 AI 金鑰：** 前往 [Google AI Studio](https://aistudio.google.com/) 申請免費的 Gemini API Key，並貼入您試算表中的「設定」工作表 B1 儲存格。
 3. **啟動自動清潔：** 回到試算表，點擊上方選單「🚀 艦隊系統安裝」➔「1️⃣ 一鍵啟動自動清潔機器人」(首次需授權)。
 4. **發布專屬網址：** 點擊上方「擴充功能」➔「Apps Script」。在右上角點擊「部署」➔「網頁應用程式」，將權限設為「所有人」，發布並取得您的上課網址！
