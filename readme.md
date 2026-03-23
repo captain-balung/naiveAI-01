@@ -8,6 +8,10 @@
 * **自動化清潔：** 內建 12 小時保鮮機制與 24 小時自動刪除，資料庫永不塞車。
 * **極低成本：** 完全建立在免費的 Google 試算表與 Google Apps Script 上。
 
+## 線上範例
+學生端：https://script.google.com/macros/s/AKfycbyGCqab-VX84nipH51sX-cqoGf5Io7oGbTZfXyZa5yx88CajUF6tULeRydKk_XK8uXh/exec
+教師端：https://script.google.com/macros/s/AKfycbyGCqab-VX84nipH51sX-cqoGf5Io7oGbTZfXyZa5yx88CajUF6tULeRydKk_XK8uXh/exec?page=teacher
+
 ## 🚀 老師專屬：一鍵安裝指南 (最快只需 3 分鐘)
 
 如果您是老師，不需要下載這裡的程式碼！請直接跟著以下步驟操作：
